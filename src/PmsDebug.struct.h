@@ -1178,7 +1178,7 @@ struct pms_core_0_region_pms_constrain_2_reg{
 	int pms_core_0_region_pms_constrain_world_1_area_0_y = 1;
 
 };
-struct pms_core_0_region_pms_constrain_n_reg {
+struct pms_core_0_region_pms_constrain_n_reg{
 	uint32_t val = 0;
 	uint16_t base = 0x016c;
 
